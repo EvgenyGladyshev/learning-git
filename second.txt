@@ -1,1 +1,2 @@
 Second file again
+Hello from new-branch!
